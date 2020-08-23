@@ -14,3 +14,4 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', 'BoardController@show');
+Route::get('/{section}', 'PageController@show');

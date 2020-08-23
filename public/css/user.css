@@ -37,3 +37,7 @@ a:hover {
     font-size: 40px;
     border-bottom: 1px solid #f4faff;
 }
+
+.content-body {
+    background-color: #2a2b2e;
+}
