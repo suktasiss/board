@@ -7,6 +7,6 @@ class PageController extends Controller
 {
     public function show($section)
     {
-        return view('page');
+        return view('page', ['section' => $section]);
     }
 }

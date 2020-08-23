@@ -1,3 +1,5 @@
+
+/* NAV */
 .mad {
     background-color: #08090A;
     color: #5dfdcb;
@@ -40,4 +42,48 @@ a:hover {
 
 .content-body {
     background-color: #2a2b2e;
+}
+
+/* FORM */
+
+.form-post {
+    margin-top: 20px;
+    width: 400;
+    margin: auto;
+    color: #f4faff;
+    border: solid 1px;
+    padding: 10px
+}
+
+.form-post label {
+    color: #f4faff;
+    padding: 0;
+    margin-bottom: 0
+}
+
+.form-group {
+    margin: 0
+}
+
+.send-post {
+    color: #f4faff;
+    height: -3px;
+}
+
+.form-div {
+    margin-top: 30px;
+}
+
+.form-button {
+    margin-top: 4px;
+    height: 40px;
+}
+
+/* TITLE */
+
+.title {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 40px;
+    color: #1d643b;
 }
