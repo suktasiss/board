@@ -1,0 +1,39 @@
+.mad {
+    background-color: #08090A;
+    color: #5dfdcb;
+}
+
+.nav-div {
+    border-radius: 2;
+    position: relative
+}
+ul.nav-list {
+    padding: 0;
+    margin: 5 0;
+    font-size: 15px;
+    text-align: left;
+}
+
+ul.nav-list li:first-child{
+    background-color: #8789c0;
+    font-weight: bold;
+}
+
+ul.nav-list li {
+    padding-left: 10;
+    color: #1d643b;
+}
+
+a {
+    color: #1d643b;
+}
+
+a:hover {
+    color: #1d640a;
+    text-decoration: none;
+}
+
+.main {
+    font-size: 40px;
+    border-bottom: 1px solid #f4faff;
+}
