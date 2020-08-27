@@ -14,4 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', 'BoardController@show');
+Route::post('/{section}', 'PageController@create');
 Route::get('/{section}', 'PageController@show');
